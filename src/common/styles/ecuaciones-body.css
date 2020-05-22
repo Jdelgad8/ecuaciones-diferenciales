@@ -1,0 +1,25 @@
+.ecuaciones-body{
+  margin: 20px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.lineales-text{
+  font-size: 20px;
+}
+
+.lineales-subtitle{
+  font-size: 25px;
+}
+
+.horizontal{
+  display: flex;
+  flex-direction: row;
+}
+
+.text-image{
+  margin-top: 10px;;
+}

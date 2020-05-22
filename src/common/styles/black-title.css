@@ -1,0 +1,12 @@
+.black-title {
+  color: black;
+  line-height: 1;
+  padding-bottom: 0px;
+  padding-left: 20px;
+  padding-right: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-family: monospace;
+  font-style: italic;
+  font-weight: 400;
+}

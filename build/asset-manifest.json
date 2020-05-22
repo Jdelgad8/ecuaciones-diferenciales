@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd569e6c.chunk.css",
+    "main.js": "/static/js/main.101e4b8b.chunk.js",
+    "main.js.map": "/static/js/main.101e4b8b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.c7adc173.chunk.js": "/static/js/2.c7adc173.chunk.js",
+    "static/js/2.c7adc173.chunk.js.map": "/static/js/2.c7adc173.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b6d6d6a3326a1994508afc2c7b3710b1.js": "/precache-manifest.b6d6d6a3326a1994508afc2c7b3710b1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.dd569e6c.chunk.css.map": "/static/css/main.dd569e6c.chunk.css.map",
+    "static/media/actividades-economicas.jpg": "/static/media/actividades-economicas.eba13db9.jpg",
+    "static/media/acueducto.jpg": "/static/media/acueducto.dbe1d7a7.jpg",
+    "static/media/background-image-agua.css": "/static/media/background-img-agua.229bbf61.jpg",
+    "static/media/background-image-vias.css": "/static/media/background-img.3166b27e.jpg",
+    "static/media/comunicaciones.jpg": "/static/media/comunicaciones.428c9945.jpg",
+    "static/media/educacion.jpg": "/static/media/educacion.283beb16.jpg",
+    "static/media/gather-layout.css": "/static/media/gather.0c7f3a40.jpg",
+    "static/media/impacto.jpg": "/static/media/impacto.99195d2f.jpg",
+    "static/media/recurso-suelo.jpg": "/static/media/recurso-suelo.b7703097.jpg",
+    "static/media/resultados.jpg": "/static/media/resultados.0d6c1b41.jpg",
+    "static/media/salud.jpg": "/static/media/salud.a7b85ecf.jpg",
+    "static/media/servicios-basicos.jpg": "/static/media/servicios-basicos.f4d2d40d.jpg",
+    "static/media/tecnologia.jpg": "/static/media/tecnologia.ea81c16d.jpg",
+    "static/media/ucc-logo.png": "/static/media/ucc-logo.dd47648c.png",
+    "static/media/vias.jpg": "/static/media/vias.95b29a48.jpg",
+    "static/media/vivienda.jpg": "/static/media/vivienda.7ba178a0.jpg"
+  }
+}
